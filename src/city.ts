@@ -1,4 +1,4 @@
-import cityList from './assets/city.json';
+import { cityList } from './assets/city';
 import { compare } from './utils';
 import { ICity } from './interface';
 

@@ -1,4 +1,4 @@
-import countryList from './assets/country.json';
+import { countryList } from './assets/country';
 import { findEntryByCode } from './utils';
 import { ICountry } from './interface';
 
