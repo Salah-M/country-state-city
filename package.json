@@ -2,9 +2,9 @@
   "name": "country-state-city",
   "version": "3.0.2",
   "description": "Library for fetching Country, its States and Cities",
-  "main": "./lib/cjs/index.js",
-  "module": "./lib/index.js",
-  "types": "dist/index.d.ts",
+  "main": "./src/index.js",
+  "module": "./src/index.js",
+  "types": "src/index.d.ts",
   "sideEffects": false,
   "scripts": {
     "test": "jest",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harpreetkhalsagtbit/country-state-city.git"
+    "url": "git+https://github.com/Salah-M/country-state-city"
   },
   "keywords": [
     "Country",
@@ -32,7 +32,7 @@
   "bugs": {
     "url": "https://github.com/harpreetkhalsagtbit/country-state-city/issues"
   },
-  "homepage": "https://github.com/harpreetkhalsagtbit/country-state-city#readme",
+  "homepage": "https://github.com/Salah-M/country-state-city#readme",
   "devDependencies": {
     "@types/jest": "^26.0.19",
     "@typescript-eslint/eslint-plugin": "^4.12.0",
